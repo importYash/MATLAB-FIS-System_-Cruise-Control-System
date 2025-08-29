@@ -26,4 +26,4 @@ Output:
 1. Open MATLAB.
 2. Load the `.fis` file:
    ```matlab
-   fis = readfis('src/fuzzy_cruise_control.fis');
+   fis = readfis('neuralnetwork.fis');
