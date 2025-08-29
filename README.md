@@ -26,4 +26,4 @@ Output:
 1. Open MATLAB.
 2. Load the `.fis` file:
    ```matlab
-   fis = readfis('neuralnetwork.fis');
+ fis = readfis('neuralnetwork.fis');
